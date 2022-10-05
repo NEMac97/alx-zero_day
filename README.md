@@ -1,1 +1,1 @@
-My first readme
+Day zero as a full-stack engineer 
